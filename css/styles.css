@@ -1,0 +1,78 @@
+div{
+	font-size: 24px
+}
+
+#PlanoDefundo{
+	background: #cd9777;background-image: url(imagens/taverna.jpg);
+background-repeat: no-repeat;background-attachment: fixed;
+background-position: center center ; background-size: 100%
+}
+#Jiro{
+	margin: 100px;color: black;
+}
+#Kyser{
+	margin: 220px; color:black;
+}
+#Eva{
+	margin: 10px; color:black;
+}
+#borda{
+	border: 3px solid black;
+}
+#Entrada{
+	text-align: center; 
+	font-size: 38px;
+	font-family: "Times New Roman","Times", serif ;
+	background-image: url(imagens/madeira.jpg);
+	font-weight: 900;
+	color: gold
+}
+#Menu{
+	text-align: center; 
+	font-size: 24px; 
+	background-image: url(imagens/madeira.jpg);
+	color: gold
+}
+a {
+	text-decoration: none;color: black; font-weight: bold; padding: 20px}
+#jamilton{
+	margin-top: 29px;
+	float: left;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+#cerveja{
+	content: url(imagens/cerveja.png);
+	
+}
+#conteudo{
+	background-image: url(imagens/madeira.jpg);
+}
+#texto{
+	float: left;
+	width: 900px;
+	color: grey;
+	margin-left: 10px
+	
+}
+text{
+	font-size: 1em
+}
+.clear {
+	clear: both;
+}
+#principal { 
+	margin:-10px 70px 10px 70px;
+
+ }
+hr{
+	color: #5c3324;
+}
+.gold{
+	color: gold
+}
+
+h2 {
+	margin-left: 5px;
+	margin-top: 10px;
+}
